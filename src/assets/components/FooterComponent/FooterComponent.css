@@ -1,0 +1,18 @@
+.footer-text
+{
+    font-size: 14px;
+    margin: 3px;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-weight: bolder;
+    color: #000;
+}
+
+.footer-container
+{
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    border: solid white 1px;
+    background-color: rgba(256,256,256);
+}

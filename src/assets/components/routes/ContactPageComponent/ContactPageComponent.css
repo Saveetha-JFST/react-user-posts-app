@@ -1,0 +1,11 @@
+.map
+{
+    position: absolute;
+    left: 15%;
+}
+
+.map-container
+{
+    display: flex;
+    justify-items: center;
+}

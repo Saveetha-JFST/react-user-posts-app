@@ -1,8 +1,13 @@
 import React from 'react'
+import FooterComponent from './assets/components/FooterComponent/FooterComponent'
+import NavigationComponent from './assets/components/NavigationComponent/NavigationComponent'
 
 const App = () => {
   return (
-    <div>App</div>
+    <React.Fragment>
+      <NavigationComponent/>
+      <FooterComponent/>
+    </React.Fragment>
   )
 }
 

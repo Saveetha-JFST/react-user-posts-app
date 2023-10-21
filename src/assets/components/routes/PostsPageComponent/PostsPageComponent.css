@@ -1,0 +1,41 @@
+.post-container
+{
+    border : solid 1px #ffffff;
+    border-radius : 20px;
+    padding : 1vw 0 1vw 0;
+    margin: 1vw 7vw 1vw 7vw;
+    text-align: center;
+}
+
+.button-container
+{
+    padding : 1vw 0 1vw 0;
+    margin: 0 7vw 0 7vw;
+    text-align: center;  
+}
+
+.get-post-button{
+    font-weight: bolder;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-size: large;
+}
+
+.post-title
+{
+    font-size: 2em;
+    font-weight: 700;
+    text-align: center;
+    margin: 1px;
+    margin-bottom: 1vw;
+    font-family: 'Bricolage Grotesque', sans-serif;
+}
+
+.post-data
+{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 1.5em;
+    text-align: center;
+    margin: 1px;
+    margin-bottom: 1vw;
+    padding: 0 1vw 0 1vw;
+}
